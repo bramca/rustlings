@@ -1,4 +1,4 @@
-#  Rustlings
+# 🦀 Rustlings
 
 Some exercises for learning [rust](https://www.rust-lang.org/learn)
 
